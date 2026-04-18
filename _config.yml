@@ -1,8 +1,8 @@
 title: CasinoGuidesNP
-description: Expert casino gaming guides for NP players.
+description: Expert casino gaming guides in Nepali for Nepalese players.
 baseurl: "/casinoguidesnp"
 url: "https://bb8bdt-ops.github.io"
-lang: en
+lang: ne
 theme: minima
 
 plugins:
