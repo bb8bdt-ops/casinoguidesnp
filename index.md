@@ -5,12 +5,12 @@ title: CasinoGuidesNP
 
 # CasinoGuidesNP
 
-Expert casino gaming guides for NP players.
+Expert casino gaming guides in Nepali — स्लट, रूलेट, ब्लैकज्याक, बाकारात, लाइभ क्यासिनो।
 
 [Visit asiacasinoranks.com/np/](https://asiacasinoranks.com/np/)
 
 ---
 
-## Latest Articles (0)
+## Latest Articles (1)
 
-No articles published yet.
+- [Online Slots Strategy Guide: Nepali Players Ko Lagi](./online-slots-strategy-guide-nepali-players-ko-lagi/)
