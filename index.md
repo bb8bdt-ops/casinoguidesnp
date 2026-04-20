@@ -11,7 +11,8 @@ Expert casino gaming guides in Nepali — स्लट, रूलेट, ब्�
 
 ---
 
-## Latest Articles (2)
+## Latest Articles (3)
 
+- [Blackjack Guide for Beginners in Nepal](./blackjack-guide-for-beginners-in-nepal/)
 - [Roulette Tips for Nepali Players: European vs American](./roulette-tips-for-nepali-players-european-vs-american/)
 - [Online Slots Strategy Guide: Nepali Players Ko Lagi](./online-slots-strategy-guide-nepali-players-ko-lagi/)
