@@ -11,8 +11,9 @@ Expert casino gaming guides in Nepali — स्लट, रूलेट, ब्�
 
 ---
 
-## Latest Articles (5)
+## Latest Articles (6)
 
+- [Bankroll Management Strategies for Nepali Online Casino Players](./bankroll-management-strategies-for-nepali-online-casino-play/)
 - [Live Casino Etiquette: Do's and Don'ts for Nepali Players](./live-casino-etiquette-dos-and-donts-for-nepali-players/)
 - [Baccarat Patterns and Trends: Read the Table Like a Pro](./baccarat-patterns-and-trends-read-the-table-like-a-pro/)
 - [Blackjack Guide for Beginners in Nepal](./blackjack-guide-for-beginners-in-nepal/)
