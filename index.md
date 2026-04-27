@@ -11,8 +11,9 @@ Expert casino gaming guides in Nepali — स्लट, रूलेट, ब्�
 
 ---
 
-## Latest Articles (7)
+## Latest Articles (8)
 
+- [Progressive Jackpot Slots Guide: How to Win Big in Nepal](./progressive-jackpot-slots-guide-how-to-win-big-in-nepal/)
 - [RTP and Slot Volatility Explained: Choose Games That Pay](./rtp-and-slot-volatility-explained-choose-games-that-pay/)
 - [Bankroll Management Strategies for Nepali Online Casino Players](./bankroll-management-strategies-for-nepali-online-casino-play/)
 - [Live Casino Etiquette: Do's and Don'ts for Nepali Players](./live-casino-etiquette-dos-and-donts-for-nepali-players/)
