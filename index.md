@@ -11,8 +11,9 @@ Expert casino gaming guides in Nepali — स्लट, रूलेट, ब्�
 
 ---
 
-## Latest Articles (13)
+## Latest Articles (14)
 
+- [Table Games Odds Comparison: Blackjack, Roulette, Baccarat and More](./table-games-odds-comparison-blackjack-roulette-baccarat-and-/)
 - [Live Casino Technology Explained: How Live Dealer Streaming Works](./live-casino-technology-explained-how-live-dealer-streaming-w/)
 - [How to Choose a Safe Online Casino in Nepal: Licensing and Security Guide](./how-to-choose-a-safe-online-casino-in-nepal-licensing-and-se/)
 - [Baccarat Betting Systems Compared: Fibonacci, Paroli, and Flat Betting](./baccarat-betting-systems-compared-fibonacci-paroli-and-flat-/)
